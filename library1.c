@@ -73,8 +73,6 @@ void welcomeMessage()
     printf("\n\t\t\t        =-------------------------------------------=");
     printf("\n\t\t\t        =                 Members-                  =");
     printf("\n\t\t\t        =                     Manav Sharma(7026)    =");
-    printf("\n\t\t\t        =                     Aman Shahriz(7003)    =");
-    printf("\n\t\t\t        =                     Nishant Huzuri(7031)  =");
     printf("\n\t\t\t        =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
     printf("\n\t\t\t  **-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**\n");
     printf("\n\n\n\t\t\t Enter any key to continue.....");
